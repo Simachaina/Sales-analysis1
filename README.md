@@ -46,6 +46,8 @@ The facilitator provided data in comma-delimited CSV, and I had to convert it to
 
 ##MODELLING
 
+No data modelling was executed due to the fact that the data was recieved in a CSV table.
+
 ##ANALYSIS AND VISUALISATION
 
 ##CONCLUSION AND RECOMMENDATION.
