@@ -42,6 +42,8 @@ The data used in this project was provided by the facilitator Promise Chinoso to
 
 ##DATA TRANSFORMATION
 
+The facilitator provided data in comma-delimited CSV, and I had to convert it to usable Excel format. I used the text-to-column function.
+
 ##MODELLING
 
 ##ANALYSIS AND VISUALISATION
