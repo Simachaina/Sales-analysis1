@@ -26,6 +26,16 @@ The facilitator challenged each team member to solve the below-listed problems f
 
 ##SKILLS DEMONSTRATED
 
+The following skills were demonstrated during the execution of this assignment. The skills demonstrated are listed below:
+-Advanced data analysis in Excel
+
+-Data transformation ie using text to column (CSV to Excel)
+
+-Data cleaning ( Removing duplicate)
+
+-Project documentation.
+
+
 ##DATA SOURCING
 
 ##DATA TRANSFORMATION
