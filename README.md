@@ -38,6 +38,8 @@ The following skills were demonstrated during the execution of this assignment. 
 
 ##DATA SOURCING
 
+The data used in this project was provided by the facilitator Promise Chinoso to enable the class to demonstrate their ability to apply their learned Excel skills.
+
 ##DATA TRANSFORMATION
 
 ##MODELLING
