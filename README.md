@@ -52,6 +52,12 @@ No data modelling was executed due to the fact that the data was recieved in a C
 
 ##ANALYSIS AND VISUALISATION
 
+
+![](Duplicates.png)     | ![](Min_Max.png)
+
+
+
+
 ##CONCLUSION AND RECOMMENDATION.
 
 ###Conclusion
