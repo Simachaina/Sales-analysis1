@@ -1,12 +1,12 @@
-# Sales-analysis1
+**Sales-analysis1**
 
-##SALES DATA ANALYSIS
+**SALES DATA ANALYSIS**
 
-##INTRODUCTION
+**INTRODUCTION**
 
 This is an advanced Excel project. It will bring insight into the performance pattern of each country, sector and product to help decision-makers to maximise their return.
 
-##PROBLEM STATEMENT
+**PROBLEM STATEMENT**
 
 The facilitator challenged each team member to solve the below-listed problems from the provided data sales data set.
 
@@ -26,7 +26,7 @@ The facilitator challenged each team member to solve the below-listed problems f
 
 -Finally, the country which generated the highest sales revenue.
 
-##SKILLS DEMONSTRATED
+**SKILLS DEMONSTRATED**
 
 The following skills were demonstrated during the execution of this assignment. The skills demonstrated are listed below:
 -Advanced data analysis in Excel
@@ -38,19 +38,19 @@ The following skills were demonstrated during the execution of this assignment. 
 -Project documentation.
 
 
-##DATA SOURCING
+**DATA SOURCING**
 
 The data used in this project was provided by the facilitator Promise Chinoso to enable the class to demonstrate their ability to apply their learned Excel skills.
 
-##DATA TRANSFORMATION
+**DATA TRANSFORMATION**
 
 The facilitator provided data in comma-delimited CSV, and I had to convert it to usable Excel format. I used the text-to-column function.
 
-##MODELLING
+**MODELLING**
 
 No data modelling was executed due to the fact that the data was recieved in a CSV table.
 
-##ANALYSIS AND VISUALISATION
+**ANALYSIS AND VISUALISATION**
 
 
 ![](Duplicates.png)     | ![](Min_Max.png)
@@ -58,12 +58,12 @@ No data modelling was executed due to the fact that the data was recieved in a C
 
 
 
-##CONCLUSION AND RECOMMENDATION.
+**CONCLUSION AND RECOMMENDATION.**
 
-###Conclusion
+**Conclusion**
 
 The highest performing country and segment were identified as the USA and the government respectively.
 
-###Recommednadtions
+**Recommendations**
 
 I recommend that the organisation must launch an aggressive campaign in order to harness the potential in the US market despite the fact that it has the highest sales volume. The sales revenue per 1000 citizens of that country is very low compared to other markets.  
