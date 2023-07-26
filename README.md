@@ -4,6 +4,8 @@
 
 ##INTRODUCTION
 
+This is an advanced Excel project. It will bring insight into the performance pattern of each country, sector and product to help decision-makers to maximise their return.
+
 ##PROBLEM STATEMENT
 
 The facilitator challenged each team member to solve the below-listed problems from the provided data sales data set.
@@ -51,3 +53,11 @@ No data modelling was executed due to the fact that the data was recieved in a C
 ##ANALYSIS AND VISUALISATION
 
 ##CONCLUSION AND RECOMMENDATION.
+
+###Conclusion
+
+The highest performing country and segment were identified as the USA and the government respectively.
+
+###Recommednadtions
+
+I recommend that the organisation must launch an aggressive campaign in order to harness the potential in the US market despite the fact that it has the highest sales volume. The sales revenue per 1000 citizens of that country is very low compared to other markets.  
